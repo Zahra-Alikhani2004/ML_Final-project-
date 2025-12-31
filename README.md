@@ -60,6 +60,12 @@
 > این تحلیل به مربیان امکان می‌دهد تا پیش از ورود بازیکن به زمین، نقاط قوت و ضعف او را بشناسند و تصمیمات استراتژیک بگیرند.
 
 ---
+## How to Run
+1. Open `FutsalTalentApp.ipynb`
+2. Run all cells in order
+3. Enter player features as inputs
+4. View the recommended futsal suitability result
+---
 
 ### 4️⃣ تحلیل تصویر و ویدئو
 برای افزایش دقت تحلیل‌ها، **ورودی تصویری و ویدئویی بازیکن** مورد بررسی قرار گرفت:
