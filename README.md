@@ -22,6 +22,22 @@
 
 ---
 
+## 🔗 لینک‌های پروژه
+
+- **توضیحات و مستندات پروژه (README):**  
+  https://github.com/Zahra-Alikhani2004/ML_Final-project-/blob/main/README.md
+
+- **لینک دیتاست پروژه (Futsal Iran Dataset):**  
+  https://github.com/Zahra-Alikhani2004/ML_Final-project-/tree/main/Futsal-IRAN-Dataset
+
+- **آنالیز و بررسی دیتاست:**  
+  https://github.com/Zahra-Alikhani2004/ML_Final-project-/blob/main/Futsal_IRAN_Dataset_Analysis.ipynb
+
+- **کد نهایی اپلیکیشن (Futsal Talent App):**  
+  https://github.com/Zahra-Alikhani2004/ML_Final-project-/blob/main/FutsalTalentApp.ipynb
+
+---
+
 ## 📊 دیتاست پروژه
 در این پروژه از یک دیتاست اختصاصی و بومی ایرانی با عنوان **Futsal-IRAN-Dataset** استفاده شده است.
 
